@@ -1,0 +1,18 @@
+#!/bin/bash
+
+echo "Kurulum için yönetici şifresini giriniz."
+
+sudo apt-get install python3-tk
+
+sudo apt-get install -y python3-pip
+ 
+sudo pip3 install --upgrade pip
+
+sudo pip3 install -U pip setuptools
+
+sudo pip3 install pygame
+
+
+
+
+
